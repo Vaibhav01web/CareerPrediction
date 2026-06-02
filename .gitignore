@@ -1,0 +1,33 @@
+# Node
+node_modules/
+dist/
+
+# React
+.vite/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# ML Models
+*.pkl
+
+# Java
+target/
+*.class
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+application.properties
