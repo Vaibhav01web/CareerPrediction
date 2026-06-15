@@ -61,7 +61,7 @@ const careerMetadata = {
     description: "Researches, implements, and deploys production-grade Machine Learning and Deep Learning systems to solve enterprise intelligence challenges.",
     salary: "$125,000 - $185,000",
     outlook: "+40% (Hyper-growth field)",
-    ideal: { cgpa: 8.4, dsa: 8, communication: 7, ml: 9, webdev: 4, cloud: 7, cybersecurity: 3, projects: 14, internships: 2 },
+    ideal: { cgpa: 9.1, dsa: 8, communication: 7, ml: 9, webdev: 4, cloud: 7, cybersecurity: 3, projects: 14, internships: 2 },
     topics: ["Deep Learning (PyTorch / TensorFlow)", "MLOps & Model Deployment", "Neural Network Architectures", "Feature Engineering & Data Pipelines", "GPU Computing & CUDA"]
   },
   "Mobile App Developer": {
