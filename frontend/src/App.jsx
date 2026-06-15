@@ -29,7 +29,7 @@ const careerMetadata = {
     description: "Protects systems, networks, and data from cyber threats, unauthorized access, and malicious attacks through proactive defense mechanisms.",
     salary: "$95,000 - $145,000",
     outlook: "+32% (Explosive Growth)",
-    ideal: { cgpa: 7.2, dsa: 6, communication: 7, ml: 4, webdev: 4, cloud: 6, cybersecurity: 9, projects: 8, internships: 1 },
+    ideal: { cgpa: 8.2, dsa: 6, communication: 7, ml: 4, webdev: 4, cloud: 6, cybersecurity: 9, projects: 8, internships: 1 },
     topics: ["Network Security & Firewalls", "Penetration Testing (Kali Linux)", "Cryptography (SSL/TLS, RSA)", "OWASP Top 10 Vulnerabilities", "SIEM Tools & Log Analysis"]
   },
   "Data Scientist": {
