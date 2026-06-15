@@ -77,7 +77,7 @@ const careerMetadata = {
     description: "Bridges software engineering and system operations, building CI/CD deployment pipelines, automated setups, and telemetry networks.",
     salary: "$110,000 - $160,000",
     outlook: "+24% (Very High Growth)",
-    ideal: { cgpa: 7.4, dsa: 6, communication: 8, ml: 4, webdev: 5, cloud: 8, cybersecurity: 7, projects: 10, internships: 2 },
+    ideal: { cgpa: 8.4, dsa: 6, communication: 8, ml: 4, webdev: 5, cloud: 8, cybersecurity: 7, projects: 10, internships: 2 },
     topics: ["Jenkins / GitHub Actions", "Ansible / Chef Automation", "Kubernetes Orchestration", "Prometheus & Grafana Monitoring", "Bash / Python scripting"]
   }
 };
