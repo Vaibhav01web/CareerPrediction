@@ -87,7 +87,7 @@ const fallbackMetadata = {
   description: "Leverages a diverse set of engineering principles to build solutions, manage databases, and coordinate development cycles.",
   salary: "$95,000 - $140,000",
   outlook: "+20% (High Growth)",
-  ideal: { cgpa: 7.5, dsa: 7, communication: 7, ml: 5, webdev: 6, cloud: 6, cybersecurity: 5, projects: 10, internships: 1 },
+  ideal: { cgpa: 7.9, dsa: 7, communication: 7, ml: 5, webdev: 6, cloud: 6, cybersecurity: 5, projects: 10, internships: 1 },
   topics: ["Software Engineering Foundations", "Data Management & SQL", "Agile Methodologies", "Version Control (Git)"]
 };
 
