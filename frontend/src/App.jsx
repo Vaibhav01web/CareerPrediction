@@ -21,7 +21,7 @@ const careerMetadata = {
     description: "Designs, builds, and maintains websites and web applications, ensuring a seamless user experience and robust technical architectures.",
     salary: "$85,000 - $125,000",
     outlook: "+16% (Very High Growth)",
-    ideal: { cgpa: 7.0, dsa: 6, communication: 8, ml: 3, webdev: 9, cloud: 6, cybersecurity: 4, projects: 12, internships: 1 },
+    ideal: { cgpa: 8.0, dsa: 6, communication: 8, ml: 3, webdev: 9, cloud: 6, cybersecurity: 4, projects: 12, internships: 1 },
     topics: ["React / Vue / Angular", "Next.js & SSR", "Tailwind CSS & Responsive Design", "RESTful & GraphQL APIs", "State Management (Redux/Zustand)"]
   },
   "Cybersecurity Analyst": {
