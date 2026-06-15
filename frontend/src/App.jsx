@@ -37,7 +37,7 @@ const careerMetadata = {
     description: "Extracts deep insights from complex data, building predictive models and statistical algorithms to drive critical business decisions.",
     salary: "$110,000 - $160,000",
     outlook: "+35% (Extremely High Growth)",
-    ideal: { cgpa: 8.2, dsa: 7, communication: 8, ml: 8, webdev: 4, cloud: 6, cybersecurity: 3, projects: 12, internships: 2 },
+    ideal: { cgpa: 8.7, dsa: 7, communication: 8, ml: 8, webdev: 4, cloud: 6, cybersecurity: 3, projects: 12, internships: 2 },
     topics: ["Advanced Statistics & Probability", "SQL & Big Data Tools (Spark)", "Pandas / NumPy / Scikit-Learn", "Data Visualization (Tableau, Seaborn)", "A/B Testing & Experimentation"]
   },
   "Cloud Engineer": {
