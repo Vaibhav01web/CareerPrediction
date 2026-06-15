@@ -69,7 +69,7 @@ const careerMetadata = {
     description: "Creates rich user interfaces and application logic for smartphones and tablets across Android (Kotlin) and iOS (Swift) platforms.",
     salary: "$90,000 - $135,000",
     outlook: "+19% (High Growth)",
-    ideal: { cgpa: 7.0, dsa: 7, communication: 6, ml: 3, webdev: 6, cloud: 6, cybersecurity: 5, projects: 12, internships: 1 },
+    ideal: { cgpa: 8.0, dsa: 7, communication: 6, ml: 3, webdev: 6, cloud: 6, cybersecurity: 5, projects: 12, internships: 1 },
     topics: ["React Native / Flutter / Swift", "Mobile OS Architecture", "App Store & Play Store Deployment", "Offline Sync & Local Databases", "UI/UX Mobile Design Guidelines"]
   },
   "DevOps Engineer": {
