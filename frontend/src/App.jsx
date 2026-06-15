@@ -53,7 +53,7 @@ const careerMetadata = {
     description: "Translates functional requirements into high-performance software, components, and platforms, adhering to coding best practices.",
     salary: "$105,000 - $150,000",
     outlook: "+25% (High Growth)",
-    ideal: { cgpa: 7.8, dsa: 9, communication: 7, ml: 4, webdev: 7, cloud: 6, cybersecurity: 5, projects: 10, internships: 1 },
+    ideal: { cgpa: 8.8, dsa: 9, communication: 7, ml: 4, webdev: 7, cloud: 6, cybersecurity: 5, projects: 10, internships: 1 },
     topics: ["Data Structures & Algorithms", "System Design & Design Patterns", "Object-Oriented Programming (Java/C++/Go)", "Unit Testing & CI/CD", "Database Management & SQL"]
   },
   "ML Engineer": {
