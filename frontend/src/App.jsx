@@ -45,7 +45,7 @@ const careerMetadata = {
     description: "Architects, implements, and maintains cloud infrastructure and server configurations, optimizing for scalability, speed, and cost.",
     salary: "$115,000 - $155,000",
     outlook: "+27% (Very High Growth)",
-    ideal: { cgpa: 7.5, dsa: 6, communication: 7, ml: 4, webdev: 5, cloud: 9, cybersecurity: 7, projects: 8, internships: 1 },
+    ideal: { cgpa: 8.5, dsa: 6, communication: 7, ml: 4, webdev: 5, cloud: 9, cybersecurity: 7, projects: 8, internships: 1 },
     topics: ["AWS / GCP / Azure Certifications", "Docker & Kubernetes", "Infrastructure as Code (Terraform)", "Linux System Administration", "Serverless Architectures"]
   },
   "Software Developer": {
